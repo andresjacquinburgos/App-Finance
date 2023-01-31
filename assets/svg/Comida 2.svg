@@ -1,0 +1,37 @@
+<svg id="Grupo_3" data-name="Grupo 3" xmlns="http://www.w3.org/2000/svg" width="1772" height="1772" viewBox="0 0 1772 1772">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #336468;
+        stroke: #336468;
+      }
+
+      .cls-3 {
+        fill: #183b3f;
+        stroke: #183b3f;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_2" data-name="Grupo 2">
+    <path id="Forma_4" data-name="Forma 4" class="cls-1" d="M1011,790l-9-105,312-269,24,23L1125,654l33,32,223-203,22,25L1208,727l29,26,212-200,21,20L1204,884l-112-8Z"/>
+    <path id="Forma_3" data-name="Forma 3" class="cls-2" d="M1097,879L646,1335s-44.1,45.35-95-1c-42.811-40.86,3-89,3-89l454-453Z"/>
+    <path id="Forma_3_copia" data-name="Forma 3 copia" class="cls-3" d="M1096,879L646,1337s-52.7,41.39-94,0c281.739-283.01,500-501,500-501Z"/>
+  </g>
+  <g id="Grupo_1" data-name="Grupo 1">
+    <path id="Forma_1" data-name="Forma 1" class="cls-1" d="M919,852L589,525s-131.921-98.67-252,12c110.79,113.668,540,539,540,539l88-89S868.24,922.757,919,852Z"/>
+    <path id="Forma_2" data-name="Forma 2" class="cls-2" d="M879,1081l90-92,242,250s49.82,41.73,11,94c-40.38,51.1-95-5-95-5Z"/>
+    <path id="Forma_2_copia" data-name="Forma 2 copia" class="cls-3" d="M923,1037l46-49,242,250s49.82,41.73,11,94C1117.37,1229.15,923,1037,923,1037Z"/>
+  </g>
+</svg>

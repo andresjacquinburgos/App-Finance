@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1181" height="1181" viewBox="0 0 1181 1181">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #285aa7;
+        stroke: #285aa7;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        stroke-width: 64px;
+      }
+
+      .cls-2 {
+        stroke-width: 50px;
+      }
+    </style>
+  </defs>
+  <path id="Forma_1" data-name="Forma 1" class="cls-1" d="M128,977l906,8"/>
+  <path id="Rectángulo_redondeado_1" data-name="Rectángulo redondeado 1" class="cls-1" d="M186.815,389.042h78.37a15,15,0,0,1,15,15V862.958a15,15,0,0,1-15,15h-78.37a15,15,0,0,1-15-15V404.042A15,15,0,0,1,186.815,389.042Z"/>
+  <path id="Rectángulo_redondeado_1_copia" data-name="Rectángulo redondeado 1 copia" class="cls-1" d="M418.93,203.041h78.14a15,15,0,0,1,15,15V860.959a15,15,0,0,1-15,15H418.93a15,15,0,0,1-15-15V218.041A15,15,0,0,1,418.93,203.041Z"/>
+  <path id="Rectángulo_redondeado_1_copia_2" data-name="Rectángulo redondeado 1 copia 2" class="cls-2" d="M655.977,431.711h78.046a15,15,0,0,1,15,15V873.289a15,15,0,0,1-15,15H655.977a15,15,0,0,1-15-15V446.711A15,15,0,0,1,655.977,431.711Z"/>
+  <path id="Rectángulo_redondeado_1_copia_3" data-name="Rectángulo redondeado 1 copia 3" class="cls-2" d="M883.99,635.819h78.02a15,15,0,0,1,15,15V873.181a15,15,0,0,1-15,15H883.99a15,15,0,0,1-15-15V650.819A15,15,0,0,1,883.99,635.819Z"/>
+</svg>

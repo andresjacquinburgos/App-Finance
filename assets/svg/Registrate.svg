@@ -1,0 +1,92 @@
+<svg id="Grupo_4" data-name="Grupo 4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1181" height="1181" viewBox="0 0 1181 1181">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e7a52e;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-2, .cls-3, .cls-4, .cls-5, .cls-7, .cls-8, .cls-9 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-7, .cls-8 {
+        stroke-width: 12px;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-2, .cls-3, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #f9f9fa;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5, .cls-7 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: #a9d996;
+        stroke: #a9d996;
+      }
+
+      .cls-6, .cls-7 {
+        stroke-linejoin: round;
+      }
+
+      .cls-6, .cls-9 {
+        stroke-width: 10px;
+      }
+
+      .cls-11, .cls-8, .cls-9 {
+        fill: #009bdb;
+      }
+
+      .cls-10, .cls-12 {
+        fill: #5e54ac;
+      }
+
+      .cls-10 {
+        stroke-width: 5px;
+      }
+
+      .cls-11, .cls-12 {
+        stroke-width: 8px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="562.5" y1="194.562" x2="562.5" y2="357" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4f4f8"/>
+      <stop offset="0.003" stop-color="#f4f4f8"/>
+      <stop offset="0.736" stop-color="#aaa7a7"/>
+      <stop offset="1" stop-color="#aaa7a7"/>
+    </linearGradient>
+  </defs>
+  <path id="Rectángulo_redondeado_1" data-name="Rectángulo redondeado 1" class="cls-1" d="M304,244H825a15,15,0,0,1,15,15V972a15,15,0,0,1-15,15H304a15,15,0,0,1-15-15V259A15,15,0,0,1,304,244Z"/>
+  <path id="Forma_1" data-name="Forma 1" class="cls-2" d="M331,417l1-102s-3.871-19.826,18-20,426-1,426-1,16.951-.367,18,21,0,490,0,490S780.924,933.729,647,948c-132.66,2.891-300,2-300,2s-17.259-6.222-16-21,0-460,0-460"/>
+  <path id="Forma_2" data-name="Forma 2" class="cls-2" d="M794,801s-15.339,45.943-70,47c-26.843-4-32.686,10.8-34,25s-10.023,56.328-46,74C643.539,947.088,770.72,943.058,794,801Z"/>
+  <g id="Grupo_2" data-name="Grupo 2">
+    <path id="Rectángulo_redondeado_2" data-name="Rectángulo redondeado 2" class="cls-3" d="M434,225h88c7.324,0,9.456-9.815,16-20,7.8-11.9,32.137-14.985,43-2,9.139,10.092,9.446,22.523,23,23,46.917,1.05,87-1,87-1a15,15,0,0,1,15,15V342a15,15,0,0,1-15,15H434a15,15,0,0,1-15-15V240A15,15,0,0,1,434,225Z"/>
+    <circle id="Elipse_1" data-name="Elipse 1" class="cls-4" cx="560" cy="227" r="9.344"/>
+    <path id="Forma_3" data-name="Forma 3" class="cls-5" d="M421,312c33.529,0,76,1,76,1"/>
+    <path id="Forma_4" data-name="Forma 4" class="cls-5" d="M552,314l152-1"/>
+  </g>
+  <path id="Forma_5" data-name="Forma 5" class="cls-6" d="M576,662l-39,35L436,598l42-36,60,54L645,510l41,41-72,71"/>
+  <path id="Forma_5-2" data-name="Forma 5" class="cls-7" d="M577,661l-39,35L437,597l42-43,60,61L646,509l41,41-72,71"/>
+  <g id="Grupo_3" data-name="Grupo 3">
+    <path id="Forma_6" data-name="Forma 6" class="cls-5" d="M584,792l-18,68s-1.926,17.208,5,26c9.769,5.88,22-1,22-1l52.262-51.065L872.654,450.606,811.737,414.47Z"/>
+    <path id="Forma_12" data-name="Forma 12" class="cls-8" d="M585,792l60.539,38.082L596,884s-18.407,8.161-24,2-7.17-21.442-7.17-21.442Z"/>
+    <path id="Forma_7" data-name="Forma 7" class="cls-9" d="M825,418l22-36,35,22-22,35Z"/>
+    <path id="Forma_8" data-name="Forma 8" class="cls-5" d="M857.973,477.047l31.2,18.509L817.758,610.867"/>
+    <path id="Forma_9" data-name="Forma 9" class="cls-10" d="M811,411l-37,61,61,38,37.351-60.578Z"/>
+    <path id="Forma_11" data-name="Forma 11" class="cls-11" d="M665,656L775,472l61,40L727.229,695.758Z"/>
+    <path id="Forma_10" data-name="Forma 10" class="cls-12" d="M666,657l58.862,39.362L646.144,832.449,585,793Z"/>
+  </g>
+</svg>

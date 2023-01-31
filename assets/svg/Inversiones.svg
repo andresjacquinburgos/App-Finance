@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-6 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #1d1d1d;
+        stroke-linecap: square;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke-width: 60px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke: #001d7e;
+        stroke-linecap: round;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #001d7e;
+      }
+
+      .cls-3, .cls-5 {
+        stroke-width: 40px;
+      }
+
+      .cls-6 {
+        stroke-width: 50px;
+      }
+    </style>
+  </defs>
+  <path id="Forma_1" data-name="Forma 1" class="cls-1" d="M202,570"/>
+  <path id="Forma_2" data-name="Forma 2" class="cls-1" d="M182,606"/>
+  <path id="Forma_3" data-name="Forma 3" class="cls-2" d="M211,599S123.55,288.821,436,204"/>
+  <path id="Forma_3_copia" data-name="Forma 3 copia" class="cls-2" d="M788.785,402.029S876.161,712.187,563.975,797"/>
+  <path id="Forma_4" data-name="Forma 4" class="cls-3" d="M450,118l-1,169,102-84Z"/>
+  <path id="Forma_4_copia" data-name="Forma 4 copia" class="cls-3" d="M551,710.973L550,881,449,791.984Z"/>
+  <circle id="Elipse_1" data-name="Elipse 1" class="cls-4" cx="251.5" cy="671.5" r="8.906"/>
+  <circle id="Elipse_1_copia" data-name="Elipse 1 copia" class="cls-4" cx="751.5" cy="327.5" r="8.906"/>
+  <circle id="Elipse_1_copia_2" data-name="Elipse 1 copia 2" class="cls-4" cx="311" cy="736" r="1.875"/>
+  <circle id="Elipse_1_copia_4" data-name="Elipse 1 copia 4" class="cls-4" cx="694" cy="260" r="1.875"/>
+  <circle id="Elipse_1_copia_3" data-name="Elipse 1 copia 3" class="cls-5" cx="367.5" cy="783.5" r="1.625"/>
+  <circle id="Elipse_1_copia_5" data-name="Elipse 1 copia 5" class="cls-5" cx="629.5" cy="219.5" r="1.625"/>
+  <path id="Forma_5" data-name="Forma 5" class="cls-2" d="M557,426s-0.668-49.324-60-50c-72.971.186-69,54-69,54s-7.42,42.02,69,77c66.3,30.362,66.645,57.329,66.854,78.571-1.94,19.077-17.611,50.6-69.854,50.429-62.588-3.619-65.377-47.3-65-57"/>
+  <path id="Forma_6" data-name="Forma 6" class="cls-6" d="M496,376l-1-37"/>
+  <path id="Forma_7" data-name="Forma 7" class="cls-6" d="M496,631v38"/>
+</svg>

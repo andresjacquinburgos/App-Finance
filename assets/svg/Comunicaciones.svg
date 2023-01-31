@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        stroke-width: 40px;
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #00599c;
+        stroke-linejoin: round;
+      }
+
+      .cls-1 {
+        stroke-linecap: square;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        fill: #00599c;
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <path id="Forma_1_copia" data-name="Forma 1 copia" class="cls-1" d="M939,369.29s1.039-248.946-302.939-257.153c-295.729-6.556-280.944,256.152-280.944,256.152S354.8,597.526,642.063,612.435c65.154-1.4,117.977-15.009,117.977-15.009s110.437,63.072,153.969,51.03c-25.29-50.864-45.935-82.833-39.992-120.071S936.5,468.222,939,369.29Z"/>
+  <path id="Forma_1" data-name="Forma 1" class="cls-1" d="M63,620S61.961,371.2,366,363c295.788-6.552,281,256,281,256s0.321,229.1-287,244c-65.166-1.4-118-15-118-15S131.541,911.035,88,899c25.3-50.834,45.944-82.783,40-120S65.5,718.874,63,620Z"/>
+  <path id="Forma_2_copia_2" data-name="Forma 2 copia 2" class="cls-2" d="M559,280H795"/>
+  <path id="Forma_2_copia_2-2" data-name="Forma 2 copia 2" class="cls-2" d="M500,381H801"/>
+  <circle id="Elipse_1_copia" data-name="Elipse 1 copia" class="cls-3" cx="499" cy="282" r="16"/>
+  <path id="Forma_2" data-name="Forma 2" class="cls-2" d="M267,573H503"/>
+  <path id="Forma_2_copia" data-name="Forma 2 copia" class="cls-2" d="M205,676H506"/>
+  <circle id="Elipse_1" data-name="Elipse 1" class="cls-3" cx="207" cy="575" r="16"/>
+</svg>

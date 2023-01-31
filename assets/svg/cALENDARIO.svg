@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1181" height="1181" viewBox="0 0 1181 1181">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #285aa7;
+        stroke: #285aa7;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 28px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Rectángulo_redondeado_1" data-name="Rectángulo redondeado 1" class="cls-1" d="M127,141s44.945,2,108,2c-0.511,21.192-4.1,39.676-5,113,3.182,27.727,7.978,44.168,21,60,31.791,35.628,107.554,40.739,141,3,25.319-25.008,24.378-64.876,23-168,100.194,2.917,239.355,1.21,362.42-1.562,0.173,68.23.467,44.13,0.58,123.562,12.709,49.71,39.771,72.017,93,72,60.13,0,79.709-33.5,85.526-70.778C954.412,214.207,956,151,956,151c142.2-4.551,167.72-2.583,170,60v843a70,70,0,0,1-70,70H127a70,70,0,0,1-70-70V211A70,70,0,0,1,127,141Z"/>
+  <path id="Rectángulo_1" data-name="Rectángulo 1" class="cls-2" d="M123,417h941v636H123V417Z"/>
+  <path id="Rectángulo_redondeado_2" data-name="Rectángulo redondeado 2" class="cls-1" d="M318,67h12a40,40,0,0,1,40,40V258a40,40,0,0,1-40,40H318a40,40,0,0,1-40-40V107A40,40,0,0,1,318,67Z"/>
+  <path id="Rectángulo_redondeado_2_copia" data-name="Rectángulo redondeado 2 copia" class="cls-1" d="M863,67h12a40,40,0,0,1,40,40V258a40,40,0,0,1-40,40H863a40,40,0,0,1-40-40V107A40,40,0,0,1,863,67Z"/>
+  <path id="Rectángulo_2" data-name="Rectángulo 2" class="cls-1" d="M636,489H768V621H636V489Z"/>
+  <path id="Rectángulo_2_copia_8" data-name="Rectángulo 2 copia 8" class="cls-1" d="M410,686H542V818H410V686Z"/>
+  <path id="Rectángulo_2_copia_9" data-name="Rectángulo 2 copia 9" class="cls-1" d="M192,683H324V815H192V683Z"/>
+  <path id="Rectángulo_2_copia" data-name="Rectángulo 2 copia" class="cls-1" d="M863,489H995V621H863V489Z"/>
+  <path id="Rectángulo_2_copia_2" data-name="Rectángulo 2 copia 2" class="cls-1" d="M636,686H768V818H636V686Z"/>
+  <path id="Rectángulo_2_copia_3" data-name="Rectángulo 2 copia 3" class="cls-1" d="M863,686H995V818H863V686Z"/>
+  <path id="Rectángulo_2_copia_4" data-name="Rectángulo 2 copia 4" class="cls-1" d="M865,881H997v132H865V881Z"/>
+  <path id="Rectángulo_2_copia_5" data-name="Rectángulo 2 copia 5" class="cls-1" d="M636,881H768v132H636V881Z"/>
+  <path id="Rectángulo_2_copia_6" data-name="Rectángulo 2 copia 6" class="cls-1" d="M410,881H542v132H410V881Z"/>
+  <path id="Rectángulo_2_copia_7" data-name="Rectángulo 2 copia 7" class="cls-1" d="M190,881H322v132H190V881Z"/>
+</svg>

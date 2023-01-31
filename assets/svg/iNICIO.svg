@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1181" height="1181" viewBox="0 0 1181 1181">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #285aa7;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 65px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Forma_1" data-name="Forma 1" class="cls-1" d="M182.116,550.936L179,1012s9.769,77.6,74.247,80.95C299.12,1093.97,921,1093,921,1093s97.22,8.3,94.37-59.71-2.54-481.084-2.54-481.084h125.75l-298.5-267.832L609,92,42.394,549.667Z"/>
+  <path id="Rectángulo_1" data-name="Rectángulo 1" class="cls-1" d="M482,724H723a15,15,0,0,1,15,15v340a15,15,0,0,1-15,15H482a15,15,0,0,1-15-15V739A15,15,0,0,1,482,724Z"/>
+</svg>

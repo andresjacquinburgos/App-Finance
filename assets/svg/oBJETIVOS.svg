@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1181" height="1181" viewBox="0 0 1181 1181">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke: #285aa7;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 60px;
+      }
+
+      .cls-2 {
+        fill: #285aa7;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Elipse_1" data-name="Elipse 1" class="cls-1" cx="579.5" cy="581.5" r="397.5"/>
+  <circle id="Elipse_2" data-name="Elipse 2" class="cls-2" cx="585" cy="579" r="119"/>
+  <circle id="Elipse_3" data-name="Elipse 3" class="cls-3" cx="582.5" cy="580.5" r="72.5"/>
+  <path id="Forma_1" data-name="Forma 1" class="cls-4" d="M578,873v190"/>
+  <path id="Forma_1_copia" data-name="Forma 1 copia" class="cls-4" d="M578,89V279"/>
+  <path id="Forma_1_copia_2" data-name="Forma 1 copia 2" class="cls-4" d="M1072,579H882"/>
+  <path id="Forma_1_copia_3" data-name="Forma 1 copia 3" class="cls-4" d="M277,582H87"/>
+</svg>

@@ -1,0 +1,87 @@
+<svg id="Grupo_2" data-name="Grupo 2" xmlns="http://www.w3.org/2000/svg" width="1772" height="1772" viewBox="0 0 1772 1772">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #530f5c;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-7, .cls-8, .cls-9 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 50px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-7, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        stroke: #802f8a;
+      }
+
+      .cls-3 {
+        fill: #009bdb;
+        stroke: #009bdb;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-9 {
+        stroke-width: 8px;
+      }
+
+      .cls-4 {
+        fill: #146e94;
+        stroke: #146e94;
+      }
+
+      .cls-5 {
+        fill: #17556f;
+        stroke: #17556f;
+      }
+
+      .cls-6 {
+        fill: #802f8a;
+        opacity: 0.45;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        stroke: #fff;
+      }
+
+      .cls-7 {
+        stroke-width: 25px;
+      }
+
+      .cls-8 {
+        stroke-width: 20px;
+      }
+    </style>
+  </defs>
+  <path id="Forma_5_copia" data-name="Forma 5 copia" class="cls-1" d="M876.421,541.993V449.042s-9.305-90.115,112.1-93.061C1094.81,363.5,1106.04,386.406,1111.19,450.1c1.66,66.019,2.11,92,2.11,92"/>
+  <path id="Forma_5" data-name="Forma 5" class="cls-2" d="M746.346,512.383V419.432s-9.3-90.116,112.1-93.062c106.289,7.517,117.527,30.425,122.672,94.119,1.658,66.019,2.115,92.005,2.115,92.005"/>
+  <path id="Forma_1" data-name="Forma 1" class="cls-3" d="M405.824,1339.47l85.66-817.459,738.856-5.642-51.47,899.251Z"/>
+  <path id="Forma_2" data-name="Forma 2" class="cls-4" d="M1233.86,516.724l-54.99,897.836,100.47-178.72Z"/>
+  <path id="Forma_3" data-name="Forma 3" class="cls-3" d="M1239.15,516.724L1285,1232l120.18,111.7Z"/>
+  <path id="Forma_4" data-name="Forma 4" class="cls-5" d="M1179,1415l103.51-175.99,121.61,105.75Z"/>
+  <circle id="Elipse_2" data-name="Elipse 2" class="cls-6" cx="810.313" cy="965.64" r="227.907"/>
+  <g id="Grupo_1" data-name="Grupo 1">
+    <path id="Forma_6" data-name="Forma 6" class="cls-7" d="M542.7,813.5l105.5,0.978,32.656,253.791,288.719,21.7"/>
+    <circle id="Elipse_1" data-name="Elipse 1" class="cls-8" cx="677.953" cy="1103.08" r="30.859"/>
+    <circle id="Elipse_1_copia" data-name="Elipse 1 copia" class="cls-8" cx="958.75" cy="1117.28" r="30.844"/>
+    <path id="Forma_7" data-name="Forma 7" class="cls-7" d="M672.539,999.039l300.217,18.811L1035.7,873.357,658.5,861.79"/>
+    <path id="Forma_8" data-name="Forma 8" class="cls-9" d="M718.565,988.778l-3.054-111.823"/>
+    <path id="Forma_9" data-name="Forma 9" class="cls-9" d="M758.48,990.261L758,878.368"/>
+    <path id="Forma_10" data-name="Forma 10" class="cls-9" d="M806.212,995.389L805.694,882.21"/>
+    <path id="Forma_11" data-name="Forma 11" class="cls-9" d="M847.343,994.265l3.443-109.427"/>
+    <path id="Forma_12" data-name="Forma 12" class="cls-9" d="M886.043,998.354l9.8-112.174"/>
+    <path id="Forma_13" data-name="Forma 13" class="cls-9" d="M922.067,998.656l13.655-112.279"/>
+    <path id="Forma_14" data-name="Forma 14" class="cls-9" d="M958.2,1002.81l21.3-115.056"/>
+    <path id="Forma_15" data-name="Forma 15" class="cls-9" d="M677.246,935.883L988.96,951.81"/>
+  </g>
+</svg>

@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bf0811;
+        stroke: #bf0811;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-2, .cls-3, .cls-5, .cls-7, .cls-8, .cls-9 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-2, .cls-3, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 1px;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-2, .cls-3, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #d21f28;
+        stroke: #d21f28;
+      }
+
+      .cls-13, .cls-3 {
+        fill: #a6d9f6;
+        stroke: #a6d9f6;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-3, .cls-5, .cls-7, .cls-8, .cls-9 {
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        opacity: 0.56;
+      }
+
+      .cls-11, .cls-5, .cls-6 {
+        stroke: #000;
+      }
+
+      .cls-6 {
+        stroke-linecap: square;
+        stroke-width: 5px;
+      }
+
+      .cls-11, .cls-7 {
+        fill: #1d1d1d;
+      }
+
+      .cls-7 {
+        stroke: #1d1d1d;
+      }
+
+      .cls-8 {
+        fill: #3a3a3a;
+        stroke: #3a3a3a;
+      }
+
+      .cls-9 {
+        fill: none;
+        stroke: #535353;
+      }
+
+      .cls-10 {
+        fill: #ff0;
+        stroke: #ff0;
+      }
+
+      .cls-12 {
+        fill: #545454;
+        stroke: #545454;
+      }
+    </style>
+  </defs>
+  <path id="Forma_1" data-name="Forma 1" class="cls-1" d="M194.374,442.073s-4.116-134,73.641-223.989c48.052-48.052,110.029-41.133,231.659-41.422,131.167-1.481,198.627,7.261,231.66,46.025,59.364,63.537,74.943,188.8,73.641,217.852,28.268,10.13,60.642,37.68,59.832,72.106s-1.534,112-1.534,112l-730.266,3.068-1.534-116.6S124.586,465.731,194.374,442.073Z"/>
+  <path id="Forma_1_copia" data-name="Forma 1 copia" class="cls-2" d="M194.374,440.539s-4.116-134,73.641-223.989c48.052-48.052,110.029-41.134,231.659-41.422,131.167-1.481,198.627,7.261,231.66,46.025,59.364,63.536,74.943,188.8,73.641,217.852,28.268,10.129,60.642,37.68,59.832,72.106-372.762-1.145-733.334-1.534-733.334-1.534S124.586,464.2,194.374,440.539Z"/>
+  <path id="Forma_3" data-name="Forma 3" class="cls-3" d="M222,439c-0.294-36.549,18.866-178.815,82.835-217.847,46.618-34.207,343.711-20.548,369.735-4.6,18.432,6.506,95.11,38.537,102.789,222.455C777.359,439.005,292.5,438.119,222,439Z"/>
+  <g id="Grupo_1" data-name="Grupo 1" class="cls-4">
+    <path id="Rectángulo_2" data-name="Rectángulo 2" class="cls-5" d="M223.5,417.527H775.846l1.513,21.478L222,439Z"/>
+    <path id="Rectángulo_redondeado_4" data-name="Rectángulo redondeado 4" class="cls-5" d="M304.493,353.091H420.239a15,15,0,0,1,15,15v55.914a15,15,0,0,1-15,15H304.493a15,15,0,0,1-15-15V368.091A15,15,0,0,1,304.493,353.091Z"/>
+    <path id="Rectángulo_redondeado_4_copia" data-name="Rectángulo redondeado 4 copia" class="cls-5" d="M582.178,353.091H697.924a15,15,0,0,1,15,15v55.914a15,15,0,0,1-15,15H582.178a15,15,0,0,1-15-15V368.091A15,15,0,0,1,582.178,353.091Z"/>
+    <path id="Rectángulo_redondeado_5" data-name="Rectángulo redondeado 5" class="cls-5" d="M326.711,319.34h71.311a5,5,0,0,1,5,5v26.82a5,5,0,0,1-5,5H326.711a5,5,0,0,1-5-5V324.34A5,5,0,0,1,326.711,319.34Z"/>
+    <path id="Rectángulo_redondeado_5_copia" data-name="Rectángulo redondeado 5 copia" class="cls-5" d="M602.861,319.34h71.312a5,5,0,0,1,5,5v26.82a5,5,0,0,1-5,5H602.861a5,5,0,0,1-5-5V324.34A5,5,0,0,1,602.861,319.34Z"/>
+    <path id="Rectángulo_redondeado_6" data-name="Rectángulo redondeado 6" class="cls-5" d="M445.376,215.153H550.905a4,4,0,0,1,4,4v25.752a4,4,0,0,1-4,4H445.376a4,4,0,0,1-4-4V219.153A4,4,0,0,1,445.376,215.153Z"/>
+    <path id="Forma_6" data-name="Forma 6" class="cls-6" d="M499.674,218.221V201.345"/>
+  </g>
+  <path id="Rectángulo_redondeado_2" data-name="Rectángulo redondeado 2" class="cls-7" d="M186.362,662.994h86.6a15,15,0,0,1,15,15V790.672a15,15,0,0,1-15,15h-86.6a15,15,0,0,1-15-15V677.994A15,15,0,0,1,186.362,662.994Z"/>
+  <path id="Rectángulo_redondeado_2_copia" data-name="Rectángulo redondeado 2 copia" class="cls-7" d="M724.856,662.994h86.6a15,15,0,0,1,15,15V790.672a15,15,0,0,1-15,15h-86.6a15,15,0,0,1-15-15V677.994A15,15,0,0,1,724.856,662.994Z"/>
+  <path id="Rectángulo_redondeado_1" data-name="Rectángulo redondeado 1" class="cls-8" d="M132.666,624.64H865.149a15,15,0,0,1,15,15v46.708a15,15,0,0,1-15,15H132.666a15,15,0,0,1-15-15V639.64A15,15,0,0,1,132.666,624.64Z"/>
+  <path id="Forma_2" data-name="Forma 2" class="cls-9" d="M220.455,442.073"/>
+  <path id="Rectángulo_1" data-name="Rectángulo 1" class="cls-10" d="M430.445,641.516H553.562v44.491H430.445V641.516Z"/>
+  <path id="Forma_4" data-name="Forma 4" class="cls-11" d="M194.374,422.129L179.033,420.6s14.885-46.34-32.218-44.491-75.383,25.871-56.764,46.025,64,20.737,104.323,18.41C194.97,424.681,194.374,422.129,194.374,422.129Z"/>
+  <path id="Forma_4_copia" data-name="Forma 4 copia" class="cls-11" d="M806.8,421.009l15.348-1.546s-14.891-46.7,32.232-44.833,75.415,26.07,56.788,46.379-64.026,20.9-104.368,18.552C806.2,423.581,806.8,421.009,806.8,421.009Z"/>
+  <path id="Rectángulo_redondeado_3" data-name="Rectángulo redondeado 3" class="cls-12" d="M327.9,532.59H668.378a20,20,0,0,1,20,20v35.174a20,20,0,0,1-20,20H327.9a20,20,0,0,1-20-20V552.59A20,20,0,0,1,327.9,532.59Z"/>
+  <circle id="Elipse_1" data-name="Elipse 1" class="cls-13" cx="207.422" cy="567.109" r="36.047"/>
+  <circle id="Elipse_1_copia" data-name="Elipse 1 copia" class="cls-13" cx="787.328" cy="567.109" r="36.047"/>
+</svg>
